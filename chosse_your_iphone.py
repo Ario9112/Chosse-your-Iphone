@@ -18,6 +18,7 @@ def main(answer):
     else:
         print("Chosse again.")
 
+
 if __name__ == "__main__":
     print("Hello fellow customer!")
     print("Please chosse your iphone serie")
